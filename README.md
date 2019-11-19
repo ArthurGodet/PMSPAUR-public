@@ -7,7 +7,7 @@ Godet, A., Hebrard, E., Lorca, X., Simonin, G.  2020.  Using approximation withi
 This project is a standard maven project in Java. As such an executable jar file can be built with the following command:
 
 ```
-mvn clean install
+mvn clean package
 ```
 
 ## Running
