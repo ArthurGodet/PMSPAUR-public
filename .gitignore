@@ -1,0 +1,8 @@
+/target/
+.idea/
+*.iml
+*.xls
+*.xlsx
+/doc/
+*.jar
+*.bz2

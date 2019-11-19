@@ -1,0 +1,33 @@
+{
+  "name" : "2_3_RANDOM_5_1000",
+  "jobs" : [ {
+    "id" : 0,
+    "procTime" : 780,
+    "resourceID" : 0
+  }, {
+    "id" : 1,
+    "procTime" : 749,
+    "resourceID" : 1
+  }, {
+    "id" : 2,
+    "procTime" : 793,
+    "resourceID" : 1
+  }, {
+    "id" : 3,
+    "procTime" : 603,
+    "resourceID" : 1
+  }, {
+    "id" : 4,
+    "procTime" : 177,
+    "resourceID" : 1
+  }, {
+    "id" : 5,
+    "procTime" : 602,
+    "resourceID" : 2
+  }, {
+    "id" : 6,
+    "procTime" : 138,
+    "resourceID" : 2
+  } ],
+  "nbMachines" : 2
+}

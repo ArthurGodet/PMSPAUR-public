@@ -1,0 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PMSPAUR Instance Format              %
+%                                      %
+% Arthur Godet            March 2019   %
+%                                      %
+% arth.godet@gmail.com                 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+The name of the folder are as the following : nbMachines_nbResources/
+The name of the files are as the following : nbMachines_nbResources_type_nbMaxJobPerResource_maxJobProcTime.json
+

@@ -1,0 +1,7 @@
+n_machines = 2;
+n_resources = 3;
+n_jobs = 6;
+horizon = 176;
+LB = 98;
+n_jobs_per_resource = [2, 2, 2];
+duration = [60, 38, 23, 8, 9, 38]

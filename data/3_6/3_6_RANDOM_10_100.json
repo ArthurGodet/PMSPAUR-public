@@ -1,0 +1,121 @@
+{
+  "name" : "3_6_RANDOM_10_100",
+  "jobs" : [ {
+    "id" : 0,
+    "procTime" : 11,
+    "resourceID" : 0
+  }, {
+    "id" : 1,
+    "procTime" : 56,
+    "resourceID" : 0
+  }, {
+    "id" : 2,
+    "procTime" : 89,
+    "resourceID" : 0
+  }, {
+    "id" : 3,
+    "procTime" : 18,
+    "resourceID" : 0
+  }, {
+    "id" : 4,
+    "procTime" : 24,
+    "resourceID" : 0
+  }, {
+    "id" : 5,
+    "procTime" : 61,
+    "resourceID" : 1
+  }, {
+    "id" : 6,
+    "procTime" : 50,
+    "resourceID" : 1
+  }, {
+    "id" : 7,
+    "procTime" : 28,
+    "resourceID" : 1
+  }, {
+    "id" : 8,
+    "procTime" : 59,
+    "resourceID" : 1
+  }, {
+    "id" : 9,
+    "procTime" : 55,
+    "resourceID" : 2
+  }, {
+    "id" : 10,
+    "procTime" : 27,
+    "resourceID" : 2
+  }, {
+    "id" : 11,
+    "procTime" : 70,
+    "resourceID" : 2
+  }, {
+    "id" : 12,
+    "procTime" : 13,
+    "resourceID" : 2
+  }, {
+    "id" : 13,
+    "procTime" : 62,
+    "resourceID" : 2
+  }, {
+    "id" : 14,
+    "procTime" : 90,
+    "resourceID" : 2
+  }, {
+    "id" : 15,
+    "procTime" : 24,
+    "resourceID" : 2
+  }, {
+    "id" : 16,
+    "procTime" : 19,
+    "resourceID" : 2
+  }, {
+    "id" : 17,
+    "procTime" : 31,
+    "resourceID" : 3
+  }, {
+    "id" : 18,
+    "procTime" : 84,
+    "resourceID" : 3
+  }, {
+    "id" : 19,
+    "procTime" : 10,
+    "resourceID" : 3
+  }, {
+    "id" : 20,
+    "procTime" : 42,
+    "resourceID" : 4
+  }, {
+    "id" : 21,
+    "procTime" : 90,
+    "resourceID" : 4
+  }, {
+    "id" : 22,
+    "procTime" : 65,
+    "resourceID" : 4
+  }, {
+    "id" : 23,
+    "procTime" : 93,
+    "resourceID" : 4
+  }, {
+    "id" : 24,
+    "procTime" : 90,
+    "resourceID" : 4
+  }, {
+    "id" : 25,
+    "procTime" : 48,
+    "resourceID" : 4
+  }, {
+    "id" : 26,
+    "procTime" : 39,
+    "resourceID" : 5
+  }, {
+    "id" : 27,
+    "procTime" : 67,
+    "resourceID" : 5
+  }, {
+    "id" : 28,
+    "procTime" : 46,
+    "resourceID" : 5
+  } ],
+  "nbMachines" : 3
+}

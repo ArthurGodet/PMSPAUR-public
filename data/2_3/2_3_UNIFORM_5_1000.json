@@ -1,0 +1,65 @@
+{
+  "name" : "2_3_UNIFORM_5_1000",
+  "jobs" : [ {
+    "id" : 0,
+    "procTime" : 920,
+    "resourceID" : 0
+  }, {
+    "id" : 1,
+    "procTime" : 920,
+    "resourceID" : 0
+  }, {
+    "id" : 2,
+    "procTime" : 364,
+    "resourceID" : 0
+  }, {
+    "id" : 3,
+    "procTime" : 713,
+    "resourceID" : 0
+  }, {
+    "id" : 4,
+    "procTime" : 753,
+    "resourceID" : 0
+  }, {
+    "id" : 5,
+    "procTime" : 775,
+    "resourceID" : 1
+  }, {
+    "id" : 6,
+    "procTime" : 348,
+    "resourceID" : 1
+  }, {
+    "id" : 7,
+    "procTime" : 138,
+    "resourceID" : 1
+  }, {
+    "id" : 8,
+    "procTime" : 55,
+    "resourceID" : 1
+  }, {
+    "id" : 9,
+    "procTime" : 136,
+    "resourceID" : 1
+  }, {
+    "id" : 10,
+    "procTime" : 518,
+    "resourceID" : 2
+  }, {
+    "id" : 11,
+    "procTime" : 497,
+    "resourceID" : 2
+  }, {
+    "id" : 12,
+    "procTime" : 298,
+    "resourceID" : 2
+  }, {
+    "id" : 13,
+    "procTime" : 180,
+    "resourceID" : 2
+  }, {
+    "id" : 14,
+    "procTime" : 420,
+    "resourceID" : 2
+  } ],
+  "nbMachines" : 2
+}

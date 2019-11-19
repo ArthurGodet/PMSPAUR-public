@@ -1,0 +1,77 @@
+{
+  "name" : "2_4_RANDOM_10_1000",
+  "jobs" : [ {
+    "id" : 0,
+    "procTime" : 287,
+    "resourceID" : 0
+  }, {
+    "id" : 1,
+    "procTime" : 905,
+    "resourceID" : 0
+  }, {
+    "id" : 2,
+    "procTime" : 839,
+    "resourceID" : 0
+  }, {
+    "id" : 3,
+    "procTime" : 614,
+    "resourceID" : 1
+  }, {
+    "id" : 4,
+    "procTime" : 52,
+    "resourceID" : 1
+  }, {
+    "id" : 5,
+    "procTime" : 110,
+    "resourceID" : 1
+  }, {
+    "id" : 6,
+    "procTime" : 275,
+    "resourceID" : 1
+  }, {
+    "id" : 7,
+    "procTime" : 477,
+    "resourceID" : 1
+  }, {
+    "id" : 8,
+    "procTime" : 570,
+    "resourceID" : 1
+  }, {
+    "id" : 9,
+    "procTime" : 211,
+    "resourceID" : 2
+  }, {
+    "id" : 10,
+    "procTime" : 280,
+    "resourceID" : 2
+  }, {
+    "id" : 11,
+    "procTime" : 922,
+    "resourceID" : 2
+  }, {
+    "id" : 12,
+    "procTime" : 90,
+    "resourceID" : 2
+  }, {
+    "id" : 13,
+    "procTime" : 603,
+    "resourceID" : 2
+  }, {
+    "id" : 14,
+    "procTime" : 307,
+    "resourceID" : 3
+  }, {
+    "id" : 15,
+    "procTime" : 689,
+    "resourceID" : 3
+  }, {
+    "id" : 16,
+    "procTime" : 981,
+    "resourceID" : 3
+  }, {
+    "id" : 17,
+    "procTime" : 424,
+    "resourceID" : 3
+  } ],
+  "nbMachines" : 2
+}

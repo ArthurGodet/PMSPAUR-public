@@ -1,0 +1,29 @@
+{
+  "name" : "2_3_RANDOM_5_100",
+  "jobs" : [ {
+    "id" : 0,
+    "procTime" : 60,
+    "resourceID" : 0
+  }, {
+    "id" : 1,
+    "procTime" : 38,
+    "resourceID" : 0
+  }, {
+    "id" : 2,
+    "procTime" : 23,
+    "resourceID" : 1
+  }, {
+    "id" : 3,
+    "procTime" : 8,
+    "resourceID" : 1
+  }, {
+    "id" : 4,
+    "procTime" : 9,
+    "resourceID" : 2
+  }, {
+    "id" : 5,
+    "procTime" : 38,
+    "resourceID" : 2
+  } ],
+  "nbMachines" : 2
+}

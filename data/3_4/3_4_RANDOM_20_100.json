@@ -1,0 +1,145 @@
+{
+  "name" : "3_4_RANDOM_20_100",
+  "jobs" : [ {
+    "id" : 0,
+    "procTime" : 21,
+    "resourceID" : 0
+  }, {
+    "id" : 1,
+    "procTime" : 39,
+    "resourceID" : 0
+  }, {
+    "id" : 2,
+    "procTime" : 11,
+    "resourceID" : 0
+  }, {
+    "id" : 3,
+    "procTime" : 65,
+    "resourceID" : 0
+  }, {
+    "id" : 4,
+    "procTime" : 28,
+    "resourceID" : 0
+  }, {
+    "id" : 5,
+    "procTime" : 81,
+    "resourceID" : 0
+  }, {
+    "id" : 6,
+    "procTime" : 40,
+    "resourceID" : 0
+  }, {
+    "id" : 7,
+    "procTime" : 24,
+    "resourceID" : 0
+  }, {
+    "id" : 8,
+    "procTime" : 25,
+    "resourceID" : 0
+  }, {
+    "id" : 9,
+    "procTime" : 99,
+    "resourceID" : 0
+  }, {
+    "id" : 10,
+    "procTime" : 11,
+    "resourceID" : 0
+  }, {
+    "id" : 11,
+    "procTime" : 80,
+    "resourceID" : 1
+  }, {
+    "id" : 12,
+    "procTime" : 65,
+    "resourceID" : 1
+  }, {
+    "id" : 13,
+    "procTime" : 18,
+    "resourceID" : 1
+  }, {
+    "id" : 14,
+    "procTime" : 72,
+    "resourceID" : 1
+  }, {
+    "id" : 15,
+    "procTime" : 18,
+    "resourceID" : 1
+  }, {
+    "id" : 16,
+    "procTime" : 58,
+    "resourceID" : 1
+  }, {
+    "id" : 17,
+    "procTime" : 49,
+    "resourceID" : 1
+  }, {
+    "id" : 18,
+    "procTime" : 21,
+    "resourceID" : 2
+  }, {
+    "id" : 19,
+    "procTime" : 11,
+    "resourceID" : 2
+  }, {
+    "id" : 20,
+    "procTime" : 37,
+    "resourceID" : 2
+  }, {
+    "id" : 21,
+    "procTime" : 58,
+    "resourceID" : 2
+  }, {
+    "id" : 22,
+    "procTime" : 63,
+    "resourceID" : 2
+  }, {
+    "id" : 23,
+    "procTime" : 76,
+    "resourceID" : 2
+  }, {
+    "id" : 24,
+    "procTime" : 21,
+    "resourceID" : 3
+  }, {
+    "id" : 25,
+    "procTime" : 9,
+    "resourceID" : 3
+  }, {
+    "id" : 26,
+    "procTime" : 42,
+    "resourceID" : 3
+  }, {
+    "id" : 27,
+    "procTime" : 6,
+    "resourceID" : 3
+  }, {
+    "id" : 28,
+    "procTime" : 96,
+    "resourceID" : 3
+  }, {
+    "id" : 29,
+    "procTime" : 25,
+    "resourceID" : 3
+  }, {
+    "id" : 30,
+    "procTime" : 81,
+    "resourceID" : 3
+  }, {
+    "id" : 31,
+    "procTime" : 57,
+    "resourceID" : 3
+  }, {
+    "id" : 32,
+    "procTime" : 35,
+    "resourceID" : 3
+  }, {
+    "id" : 33,
+    "procTime" : 57,
+    "resourceID" : 3
+  }, {
+    "id" : 34,
+    "procTime" : 10,
+    "resourceID" : 3
+  } ],
+  "nbMachines" : 3
+}

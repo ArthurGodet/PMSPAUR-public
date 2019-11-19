@@ -1,0 +1,81 @@
+{
+  "name" : "5_7_RANDOM_5_1000",
+  "jobs" : [ {
+    "id" : 0,
+    "procTime" : 95,
+    "resourceID" : 0
+  }, {
+    "id" : 1,
+    "procTime" : 872,
+    "resourceID" : 1
+  }, {
+    "id" : 2,
+    "procTime" : 931,
+    "resourceID" : 1
+  }, {
+    "id" : 3,
+    "procTime" : 397,
+    "resourceID" : 1
+  }, {
+    "id" : 4,
+    "procTime" : 800,
+    "resourceID" : 2
+  }, {
+    "id" : 5,
+    "procTime" : 102,
+    "resourceID" : 2
+  }, {
+    "id" : 6,
+    "procTime" : 221,
+    "resourceID" : 3
+  }, {
+    "id" : 7,
+    "procTime" : 487,
+    "resourceID" : 3
+  }, {
+    "id" : 8,
+    "procTime" : 624,
+    "resourceID" : 3
+  }, {
+    "id" : 9,
+    "procTime" : 633,
+    "resourceID" : 3
+  }, {
+    "id" : 10,
+    "procTime" : 204,
+    "resourceID" : 4
+  }, {
+    "id" : 11,
+    "procTime" : 470,
+    "resourceID" : 4
+  }, {
+    "id" : 12,
+    "procTime" : 772,
+    "resourceID" : 4
+  }, {
+    "id" : 13,
+    "procTime" : 255,
+    "resourceID" : 4
+  }, {
+    "id" : 14,
+    "procTime" : 888,
+    "resourceID" : 5
+  }, {
+    "id" : 15,
+    "procTime" : 776,
+    "resourceID" : 5
+  }, {
+    "id" : 16,
+    "procTime" : 92,
+    "resourceID" : 5
+  }, {
+    "id" : 17,
+    "procTime" : 807,
+    "resourceID" : 5
+  }, {
+    "id" : 18,
+    "procTime" : 804,
+    "resourceID" : 6
+  } ],
+  "nbMachines" : 5
+}

@@ -1,0 +1,125 @@
+{
+  "name" : "5_6_UNIFORM_5_100",
+  "jobs" : [ {
+    "id" : 0,
+    "procTime" : 17,
+    "resourceID" : 0
+  }, {
+    "id" : 1,
+    "procTime" : 65,
+    "resourceID" : 0
+  }, {
+    "id" : 2,
+    "procTime" : 9,
+    "resourceID" : 0
+  }, {
+    "id" : 3,
+    "procTime" : 88,
+    "resourceID" : 0
+  }, {
+    "id" : 4,
+    "procTime" : 26,
+    "resourceID" : 0
+  }, {
+    "id" : 5,
+    "procTime" : 68,
+    "resourceID" : 1
+  }, {
+    "id" : 6,
+    "procTime" : 38,
+    "resourceID" : 1
+  }, {
+    "id" : 7,
+    "procTime" : 21,
+    "resourceID" : 1
+  }, {
+    "id" : 8,
+    "procTime" : 47,
+    "resourceID" : 1
+  }, {
+    "id" : 9,
+    "procTime" : 93,
+    "resourceID" : 1
+  }, {
+    "id" : 10,
+    "procTime" : 56,
+    "resourceID" : 2
+  }, {
+    "id" : 11,
+    "procTime" : 67,
+    "resourceID" : 2
+  }, {
+    "id" : 12,
+    "procTime" : 99,
+    "resourceID" : 2
+  }, {
+    "id" : 13,
+    "procTime" : 14,
+    "resourceID" : 2
+  }, {
+    "id" : 14,
+    "procTime" : 89,
+    "resourceID" : 2
+  }, {
+    "id" : 15,
+    "procTime" : 62,
+    "resourceID" : 3
+  }, {
+    "id" : 16,
+    "procTime" : 23,
+    "resourceID" : 3
+  }, {
+    "id" : 17,
+    "procTime" : 65,
+    "resourceID" : 3
+  }, {
+    "id" : 18,
+    "procTime" : 11,
+    "resourceID" : 3
+  }, {
+    "id" : 19,
+    "procTime" : 69,
+    "resourceID" : 3
+  }, {
+    "id" : 20,
+    "procTime" : 5,
+    "resourceID" : 4
+  }, {
+    "id" : 21,
+    "procTime" : 13,
+    "resourceID" : 4
+  }, {
+    "id" : 22,
+    "procTime" : 30,
+    "resourceID" : 4
+  }, {
+    "id" : 23,
+    "procTime" : 82,
+    "resourceID" : 4
+  }, {
+    "id" : 24,
+    "procTime" : 87,
+    "resourceID" : 4
+  }, {
+    "id" : 25,
+    "procTime" : 92,
+    "resourceID" : 5
+  }, {
+    "id" : 26,
+    "procTime" : 9,
+    "resourceID" : 5
+  }, {
+    "id" : 27,
+    "procTime" : 92,
+    "resourceID" : 5
+  }, {
+    "id" : 28,
+    "procTime" : 25,
+    "resourceID" : 5
+  }, {
+    "id" : 29,
+    "procTime" : 79,
+    "resourceID" : 5
+  } ],
+  "nbMachines" : 5
+}
